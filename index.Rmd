@@ -7,3 +7,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
+Main source of knowledge:
+
+- MA course "Text as Data Methods in R - Applications for Automated Analyses of News Content" from Prof. Dr. Valerie Hase, URL: https://bookdown.org/valerie_hase/TextasData_HS2021/
+
