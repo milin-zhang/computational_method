@@ -1,0 +1,25 @@
+# Tracking data analytics
+
+## Parsing URLs
+
+## Handling timestamps
+
+## Tracing referrals
+
+-   HTML markers "utm_source"
+
+-   Refer from time stamp
+
+For instance, method applied by Müller & Bach (2021) on alternative news use, with a reference to Möller et al (2020). - identified individuals who accessed populist alternative news outlets at least once over the duration of data collection.
+
+-   We then grouped all weblogs of a respondent into *browsing sessions*. A browsing session is a continuous period of user activity. If the time gap between two URL entries of one user is longer than 20 minutes, we interpreted these two website visits as belonging to two different browsing sessions.
+
+-   Third, we limited the resulting data to those browsing sessions that contain at least one visit to populist alternative media outlets.
+
+-   We then investigated whether the URL preceding the visit to a populist alternative news article belongs to our predefined list of social media platforms, search engines, and web-mail providers or whether it had the same domain as the article itself (counted as a “direct” referral). However, in all cases, preceding URLs are only considered if they belonged to the same browsing session.
+
+------------------------------------------------------------------------
+
+Möller J, van de Velde RN, Merten L, et al. (2020) Explaining online news engagement based on browsing behavior: Creatures of habit? Social Science Computer Review 38(5): 616–632.
+
+Müller, P., & Bach, R. L. (2021). Populist alternative news use and its role for elections: Web-tracking and survey evidence from two campaign periods. New Media & Society, 25(10), 2663-2683. <https://doi.org/10.1177/14614448211032969> (Original work published 2023)
